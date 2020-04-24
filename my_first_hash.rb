@@ -1,7 +1,7 @@
 def my_hash
   your_hash = {
     "name" = "Agi"
-    ""
+    "agi" = 32
   }
 
   
